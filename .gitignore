@@ -1,0 +1,6 @@
+node_modules
+build
+Tasks/**/*.js
+.taskkey
+configs/self.json
+*.vsix
