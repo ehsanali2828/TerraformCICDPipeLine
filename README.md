@@ -10,11 +10,7 @@ Here are the following contributions:
 - Amazon Web Services(AWS) service connection for creating a service connection for AWS to provide AWS credentials
 - Google Cloud Platform(GCP) service connection for creating a service connection for GCP to provide GCP credentials
 
-- [Terraform installer](https://aka.ms/AAf1a0p)
-- [Terraform] (https://github.com/microsoft/azure-pipelines-terraform/tree/main/Tasks/TerraformTask/TerraformTaskV4)
-
-
-This extension is intended to run on **Windows**, **Linux** and **MacOS** agents.
+- This extension is intended to run on **Windows**, **Linux** and **MacOS** agents.
 
 # Example: Install the latest version of Terraform
 
